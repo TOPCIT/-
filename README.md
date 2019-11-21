@@ -25,10 +25,10 @@
 
 * Structure hazards<br/>
   A required resource is busy<br/>
-  <br/>
+    <br/>
 * Data hazards<br/>
-Need to wait for previous instruction to complete its data read/write<br/>
-<br/>
+ Need to wait for previous instruction to complete its data read/write<br/>
+   <br/>
 * Control hazards<br/>
 Deciding on control action depends on previous instruction<br/>
 
